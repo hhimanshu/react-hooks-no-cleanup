@@ -1,3 +1,3 @@
-# react-hooks-no-cleanup
+# React Hooks - `useEffect` with no cleanup
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-hooks-no-cleanup)
+This repository demonstrates the working example for the use of `useEffect` React Hook when no cleanup is required.
